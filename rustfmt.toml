@@ -1,0 +1,11 @@
+edition = "2018"
+max_width = 100
+hard_tabs = false
+tab_spaces = 4
+newline_style = "Auto"
+use_small_heuristics = "Max"
+fn_args_layout = "Tall"
+reorder_imports = true
+reorder_modules = true
+merge_derives = true
+remove_nested_parens = true
